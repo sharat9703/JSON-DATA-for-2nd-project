@@ -2,32 +2,32 @@
     {
         "category_id": 1,
         "category_name":"Fashion",
-        "category_image":"https://ibb.co/Q9XVhd8"
+        "category_image":"https://i.ibb.co/b17VYJH/pexels-pixabay-325877.jpg"
 },
 {
     "category_id": 2,
     "category_name":"Gifts",
-    "category_image":"https://ibb.co/vXLMwLJ"
+    "category_image":"https://i.ibb.co/g4tcjtD/pexels-george-dolgikh-1666066.jpg"
 },
 {
     "category_id": 3,
     "category_name":"Electronics",
-    "category_image":"https://ibb.co/19WDmYY"
+    "category_image":"https://i.ibb.co/LC7LZDD/pexels-karol-d-325154.jpg"
 },
 {
     "category_id": 4,
     "category_name":"Home & Kitchen",
-    "category_image":"https://ibb.co/2j0QzBt"
+    "category_image":"https://i.ibb.co/khVfLF8/pexels-mark-mccammon-1080722.jpg"
 },
 
 {
     "category_id": 5,
     "category_name":"Books",
-    "category_image":"https://ibb.co/BfhSXwX"
+    "category_image":"https://i.ibb.co/vcNK7D7/pexels-suzy-hazelwood-1130981.jpg"
 },
 {
     "category_id": 6,
     "category_name":"Garden and Outdoors",
-    "category_image":"https://ibb.co/bz6ttt1"
+    "category_image":"https://i.ibb.co/KF5nnn6/pexels-lisa-fotios-145349.jpg"
 }
 ]
