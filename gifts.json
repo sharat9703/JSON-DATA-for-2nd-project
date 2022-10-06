@@ -1,0 +1,143 @@
+[
+    {
+    "image":"https://i.ibb.co/H2FXTm0/61ns-Gih2-7-L-AC-UL480-QL65.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"Ferrero Rocher",
+    "description":"Ferrero Rocher, 16 Pieces, 200 gm",
+    "new_price":423,
+    "old_price":529,
+    "discount":20,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":1
+    },
+    
+    {
+    "image":"https://i.ibb.co/MC0gX3p/71-Ye-tdw68-L-AC-UL480-QL65.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"Cadbury",
+    "description":"Cadbury Celebrations Chocolate Gift Pack - Assorted, Premium, 268 g",
+    "new_price":280,
+    "old_price":375,
+    "discount":25,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":2
+    },
+    
+    {
+    "image":"https://i.ibb.co/YfbCVc7/81q-ANb-Bt0x-S-AC-UL480-QL65.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"Haldiram's",
+    "description":"Haldiram's Nagpur Kaju Katli (500 g)",
+    "new_price":477,
+    "old_price":530,
+    "discount":53,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":3
+    },
+    
+    {
+    "image":"https://i.ibb.co/PFTKcV5/51-E3e-Jt-IUNL.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"Ghasitaram",
+    "description":"Ghasitaram Gifts Pure Kaju Katlis Box, 400g",
+    "new_price":466,
+    "old_price":699,
+    "discount":33,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":4
+    },
+    
+    {
+    "image":"https://i.ibb.co/JtLrHbk/61-B5cuvny7-L-SX679.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"Anand Roya",
+    "description":"Anand Royal Baklava - Assorted Tarts with Imported Nuts & Pure Ghee Dipped in Honey Syrup Tin 400 gm",
+    "new_price":593,
+    "old_price":775,
+    "discount":23,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":5
+    },
+    
+    {
+    "image":"https://i.ibb.co/zZ5M4jK/71e-Aoud-SQg-L-SX679.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"Fabelle",
+    "description":"Fabelle The Bars Quartet - Rakhi Chocolate Gift Pack with Free Rakhi, 4 Assorted Large Luxury Chocolate Bars, Premium Packaged Gift Chocolate Box, Centre-Filled Bars, Best Rakhi Gift For Brother, 524g",
+    "new_price":1086,
+    "old_price":1450,
+    "discount":25,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":6
+    },
+    
+    {
+    "image":"https://i.ibb.co/DMBv7NJ/612n-OZs-Eyf-L-SX679-PIbundle-5-Top-Right-0-0-AA679-SH20.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"LuvIt Goodies",
+    "description":"LuvIt Goodies Chocolates Assorted Gift Pack | Best Rakhi Gift for Bhaiya | Rakhi for Brother | | Best Gift Box for Birthday Celebration | Multipack | Pack of 5 - 148.5g Each",
+    "new_price":575,
+    "old_price":700,
+    "discount":18,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":7
+    },
+    
+    {
+    "image":"https://i.ibb.co/WzSG90b/51ic-r1s-AWL.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"GHASITARAM'S",
+    "description":"GHASITARAM'S Assorted Dryfruit Mithai Box (400gms)",
+    "new_price":755,
+    "old_price":799,
+    "discount":6,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":8
+    },
+    
+    {
+    "image":"https://i.ibb.co/kmZZRZr/71-Yy-VGz-JYe-L-SX679.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"ANAND",
+    "description":"ANAND Premium Biscotti Combo - Badamika Pistamika Chocomika Combo, 450g (Pack of 3 (675 g))",
+    "new_price":665,
+    "old_price":1125,
+    "discount":41,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":9
+    },
+    
+    {
+    "image":"https://i.ibb.co/SnWshPk/61-ORk-U090-JL-SX679.jpg",
+    "category_id":2,
+    "category_name":"Gifts",
+    "brand":"Diabexy",
+    "description":"Diabexy Desi Ghee Barfi Combo (Coconut, Kaju & Dark Chocolate) 200 gm Each (Pack of 3)",
+    "new_price":1127,
+    "old_price":1485,
+    "discount":24,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":10
+    }
+    
+    ]
+    
