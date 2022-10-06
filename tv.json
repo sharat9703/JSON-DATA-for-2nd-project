@@ -1,0 +1,163 @@
+[
+    {
+    "image":"https://i.ibb.co/XLbpkQg/41f-VP-e7-Cz-S-SY300-SX300.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"OnePlus",
+    "description":"OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black)",
+    "new_price":11499,
+    "old_price":19999,
+    "discount":43,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":1
+    },
+    
+    {
+    "image":"https://i.ibb.co/mCQMxDK/51q3-E64az-L-SX300-SY300.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"Samsung ",
+    "description":"Samsung 80 cm (32 Inches) Wondertainment Series HD Ready LED Smart TV UA32T4340BKXXL (Glossy Black)",
+    "new_price":13499,
+    "old_price":22900,
+    "discount":41,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":2
+    },
+    
+    {
+    "image":"https://i.ibb.co/m6LDP7p/51v-2-Nzr-ML-SY300-SX300.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"LG",
+    "description":"LG 80 cm (32 inches) HD Ready Smart LED TV 32LM563BPTC (Dark Iron Gray)",
+    "new_price":12980,
+    "old_price":21980,
+    "discount":41,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":3
+    },
+    
+    {
+    "image":"https://i.ibb.co/GpxMdHL/51fm-Hk3km-L-SX300-SY300.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"Mi",
+    "description":"Mi 80 cm (32 inches) 5A Series HD Ready Smart Android LED TV L32M7-5AIN (Black)",
+    "new_price":11999,
+    "old_price":24999,
+    "discount":52,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":4
+    },
+    
+    {
+    "image":"https://i.ibb.co/SwQBjdv/41-Om-Jy-C4i-L-SX300-SY300.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"Redmi",
+    "description":"Redmi 126 cm (50 inches) 4K Ultra HD Android Smart LED TV X50 | L50M6-RA (Black)",
+    "new_price":28999,
+    "old_price":44999,
+    "discount":36,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":5
+    },
+    
+    {
+    "image":"https://i.ibb.co/HpjvQh9/71y5-QZy-Eua-L-SX466.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"Coocaa",
+    "description":"Coocaa 100 cm (40 inches) Frameless Series Full HD Smart IPS LED TV 40S3U Pro (Black)",
+    "new_price":14489,
+    "old_price":39999,
+    "discount":64,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":6
+    },
+    
+    {
+    "image":"https://i.ibb.co/LpPsc0s/81k-YODKgal-L-SX466.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"Toshiba",
+    "description":"Toshiba 108 cm (43 inches) V Series Full HD Smart Android LED TV 43V35KP (Silver)",
+    "new_price":19990,
+    "old_price":34990,
+    "discount":43,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":7
+    },
+    
+    {
+    "image":"https://i.ibb.co/C1Hkx3H/7132bixhyt-L-SL1500.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"Redmi",
+    "description":"Redmi 108 cm (43 inches) 4K Ultra HD Android Smart LED TV X43 | L43R7-7AIN (Black)",
+    "new_price":24999,
+    "old_price":42999,
+    "discount":42,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":8
+    },
+    
+    {
+    "image":"https://i.ibb.co/HT8WSH4/71-IBre-Qup-L-SX466.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"LG",
+    "description":"LG 80 cm (32 inches) HD Ready Smart LED TV 32LQ576BPSA (Ceramic Black)",
+    "new_price":16490,
+    "old_price":23990,
+    "discount":31,
+    "delivery_type":"Free delivery",
+    "stars":4.5,
+    "item_id":9
+    },
+    
+    {
+    "image":"https://i.ibb.co/VTK5VM3/81xh0-Czv4-L-SX466.jpg",
+    "category_id":3,
+    "category_name":"Electronics",
+    "sub_category_id":34,
+    "subcategory_name":"TV",
+    "brand":"VW",
+    "description":"VW 60 cm (24 inches) HD Ready Smart LED TV VW24S (Black) (2021 Model)",
+    "new_price":6299,
+    "old_price":11999,
+    "discount":48,
+    "delivery_type":"Free delivery",
+    "stars":4,
+    "item_id":10
+    }
+    
+    ]
+    
