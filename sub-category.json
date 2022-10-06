@@ -1,0 +1,23 @@
+[ {
+    "category_id": 1,
+    "sub_category_id":1,
+"category_name":"Fashion",
+"category_image":"https://ibb.co/r0XPpr2"
+},
+{
+"category_id": 1,
+"sub_category_id":2,
+"category_name":"Clothes_women",
+"category_image":"https://ibb.co/kQyrRHy"
+},
+{
+
+"category_id": 1,
+"sub_category_id":3,
+"category_name":"Clothes_kids",
+"category_image":"https://ibb.co/VYZHbFR"
+},
+    {},
+    {},
+    {}
+]
