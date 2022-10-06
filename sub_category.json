@@ -3,45 +3,45 @@
     "category_id": 1,
     "sub_category_id":11,
     "sub_category_name":"Men's Clothes",
-    "sub_category_image":"https://ibb.co/r0XPpr2"
+    "sub_category_image":"https://i.ibb.co/Kh8Zsvx/pexels-ali-madad-sakhirani-1254502-2.jpg"
     },
 
     {
     "category_id": 1,
     "sub_category_id":12,
     "sub_category_name":"Women's Clothes",
-    "sub_category_image":"https://ibb.co/kQyrRHy"
+    "sub_category_image":"https://i.ibb.co/2g6LDn6/pexels-sravan-kumar-5181697.jpg"
     },
     {
 
     "category_id": 1,
     "sub_category_id":13,
     "sub_category_name":"kids Clothes",
-    "sub_category_image":"https://ibb.co/VYZHbFR"
+    "sub_category_image":"https://i.ibb.co/Mk48Kzr/pexels-victoria-akvarel-1620760.jpg"
     },
     {
         "category_id": 3,
         "sub_category_id":31,
         "sub_category_name":"Mobiles",
-        "sub_category_image":"https://ibb.co/cNKvrtG"
+        "sub_category_image":"https://i.ibb.co/y8mRQ5w/pexels-tracy-le-blanc-607813.jpg"
     },
     {
         "category_id": 3,
         "sub_category_id":32,
         "sub_category_name":"Laptops",
-        "sub_category_image":"https://ibb.co/Kxz3hNp"
+        "sub_category_image":"https://i.ibb.co/23Yfh81/pexels-designecologist-1779488.jpg"
     },
     {
         "category_id": 3,
         "sub_category_id":33,
         "sub_category_name":"Electronic Accessories",
-        "sub_category_image":"https://t4.ftcdn.net/jpg/03/01/69/95/240_F_301699550_WNHWZ7iR683n2jURaarvYnW9uiHCYNGv.jpg"
+        "sub_category_image":"https://i.ibb.co/YtszL44/pexels-karol-d-325154.jpg"
     },
     {
         "category_id": 3,
         "sub_category_id":34,
         "sub_category_name":"TV",
-        "sub_category_image":"https://ibb.co/1r8m6yB"
+        "sub_category_image":"https://i.ibb.co/YtszL44/pexels-karol-d-325154.jpg"
     }
 
 ]
