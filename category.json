@@ -1,13 +1,13 @@
 [
     {
         "category_id": 1,
-"category_name":"Fashion",
-"category_image":"https://ibb.co/Q9XVhd8"
+        "category_name":"Fashion",
+        "category_image":"https://ibb.co/Q9XVhd8"
 },
 {
     "category_id": 2,
-    "category_name":"Footwear",
-    "category_image":"https://m.media-amazon.com/images/I/71t7tnLOJuL._AC_UL320_.jpg"
+    "category_name":"Gifts",
+    "category_image":"https://ibb.co/vXLMwLJ"
 },
 {
     "category_id": 3,
@@ -19,23 +19,14 @@
     "category_name":"Home & Kitchen",
     "category_image":"https://ibb.co/2j0QzBt"
 },
+
 {
     "category_id": 5,
-    "category_name":"Mobiles",
-    "category_image":"https://ibb.co/cNKvrtG"
-},
-{
-    "category_id": 6,
-    "category_name":"Computers",
-    "category_image":"https://ibb.co/Kxz3hNp"
-},
-{
-    "category_id": 7,
     "category_name":"Books",
     "category_image":"https://ibb.co/BfhSXwX"
 },
 {
-    "category_id": 8,
+    "category_id": 6,
     "category_name":"Garden and Outdoors",
     "category_image":"https://ibb.co/bz6ttt1"
 }

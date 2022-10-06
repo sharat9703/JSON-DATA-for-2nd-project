@@ -1,23 +1,41 @@
-[ {
+[ 
+    {
     "category_id": 1,
-    "sub_category_id":1,
-"category_name":"Fashion",
-"category_image":"https://ibb.co/r0XPpr2"
-},
-{
-"category_id": 1,
-"sub_category_id":2,
-"category_name":"Clothes_women",
-"category_image":"https://ibb.co/kQyrRHy"
-},
-{
+    "sub_category_id":11,
+    "sub_category_name":"Men's Clothes",
+    "sub_category_image":"https://ibb.co/r0XPpr2"
+    },
 
-"category_id": 1,
-"sub_category_id":3,
-"category_name":"Clothes_kids",
-"category_image":"https://ibb.co/VYZHbFR"
-},
-    {},
-    {},
-    {}
+    {
+    "category_id": 1,
+    "sub_category_id":12,
+    "sub_category_name":"Women's Clothes",
+    "sub_category_image":"https://ibb.co/kQyrRHy"
+    },
+    {
+
+    "category_id": 13,
+    "sub_category_id":3,
+    "sub_category_name":"kids Clothes",
+    "sub_category_image":"https://ibb.co/VYZHbFR"
+    },
+    {
+        "category_id": 2,
+        "sub_category_id":21,
+        "sub_category_name":"Mobiles",
+        "sub_category_image":"https://ibb.co/cNKvrtG"
+    },
+    {
+        "category_id": 22,
+        "sub_category_id":5,
+        "sub_category_name":"Computers",
+        "sub_category_image":"https://ibb.co/Kxz3hNp"
+    },
+    {
+        "category_id": 23,
+        "sub_category_id":6,
+        "sub_category_name":"Electronic Accessories",
+        "sub_category_image":"https://t4.ftcdn.net/jpg/03/01/69/95/240_F_301699550_WNHWZ7iR683n2jURaarvYnW9uiHCYNGv.jpg"
+    }
+
 ]
